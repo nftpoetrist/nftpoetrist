@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Anftpoetrist"><img src="https://img.shields.io/badge/Hermes_Agent-36_commits_on_main-FFCB05?style=flat-square&labelColor=1A0800" alt="Hermes Agent: 36 commits on main"></a>
-  <a href="https://github.com/FhenixProtocol/cofhesdk/pulls?q=is%3Apr+author%3Anftpoetrist"><img src="https://img.shields.io/badge/Fhenix_CoFHE_SDK-4_merged-FFCB05?style=flat-square&labelColor=1A0800" alt="Fhenix CoFHE SDK: 4 merged"></a>
-  <a href="https://github.com/0xMiden/miden-vm/issues?q=author%3Anftpoetrist"><img src="https://img.shields.io/badge/Miden_VM-2_bug_reports-FFCB05?style=flat-square&labelColor=1A0800" alt="Miden VM: 2 bug reports"></a>
-  <a href="https://github.com/nftpoetrist/pikamd"><img src="https://img.shields.io/badge/Building-PikaMd-6BD66B?style=flat-square&labelColor=1A0800" alt="Building PikaMd"></a>
+  <a href="https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Anftpoetrist"><img src="https://img.shields.io/badge/Hermes_Agent-36_commits_on_main-B57BFF?style=flat-square&labelColor=0E0518" alt="Hermes Agent: 36 commits on main"></a>
+  <a href="https://github.com/FhenixProtocol/cofhesdk/pulls?q=is%3Apr+author%3Anftpoetrist"><img src="https://img.shields.io/badge/Fhenix_CoFHE_SDK-4_merged-B57BFF?style=flat-square&labelColor=0E0518" alt="Fhenix CoFHE SDK: 4 merged"></a>
+  <a href="https://github.com/0xMiden/miden-vm/issues?q=author%3Anftpoetrist"><img src="https://img.shields.io/badge/Miden_VM-2_bug_reports-B57BFF?style=flat-square&labelColor=0E0518" alt="Miden VM: 2 bug reports"></a>
+  <a href="https://github.com/nftpoetrist/pikamd"><img src="https://img.shields.io/badge/Building-PikaMd-6BD66B?style=flat-square&labelColor=0E0518" alt="Building PikaMd"></a>
 </p>
 
 I read large codebases end to end, track down the bugs that hide between their parts (state leaking across profiles, races, unbounded waits, corrupted handles) and send small, focused fixes upstream. Nearly every fix ships with a regression test. On my own time I build onchain apps for AI agents and stablecoin payments.
@@ -116,26 +116,26 @@ A STARK-based zero-knowledge virtual machine in Rust. Reported two panics in `bu
 ## Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-1A0800?style=for-the-badge&logo=typescript&logoColor=FFCB05" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-1A0800?style=for-the-badge&logo=python&logoColor=FFCB05" alt="Python">
-  <img src="https://img.shields.io/badge/Solidity-1A0800?style=for-the-badge&logo=solidity&logoColor=FFCB05" alt="Solidity">
-  <img src="https://img.shields.io/badge/SQL-1A0800?style=for-the-badge&logo=postgresql&logoColor=FFCB05" alt="SQL">
+  <img src="https://img.shields.io/badge/TypeScript-0E0518?style=for-the-badge&logo=typescript&logoColor=C9A0FF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-0E0518?style=for-the-badge&logo=python&logoColor=C9A0FF" alt="Python">
+  <img src="https://img.shields.io/badge/Solidity-0E0518?style=for-the-badge&logo=solidity&logoColor=C9A0FF" alt="Solidity">
+  <img src="https://img.shields.io/badge/SQL-0E0518?style=for-the-badge&logo=postgresql&logoColor=C9A0FF" alt="SQL">
   <br>
-  <img src="https://img.shields.io/badge/Next.js-1A0800?style=for-the-badge&logo=nextdotjs&logoColor=FFCB05" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-1A0800?style=for-the-badge&logo=react&logoColor=FFCB05" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1A0800?style=for-the-badge&logo=tailwindcss&logoColor=FFCB05" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Electron-1A0800?style=for-the-badge&logo=electron&logoColor=FFCB05" alt="Electron">
+  <img src="https://img.shields.io/badge/Next.js-0E0518?style=for-the-badge&logo=nextdotjs&logoColor=C9A0FF" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-0E0518?style=for-the-badge&logo=react&logoColor=C9A0FF" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0E0518?style=for-the-badge&logo=tailwindcss&logoColor=C9A0FF" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Electron-0E0518?style=for-the-badge&logo=electron&logoColor=C9A0FF" alt="Electron">
   <br>
-  <img src="https://img.shields.io/badge/viem_·_wagmi-1A0800?style=for-the-badge&logo=ethereum&logoColor=FFCB05" alt="viem and wagmi">
-  <img src="https://img.shields.io/badge/ethers.js-1A0800?style=for-the-badge&logo=ethers&logoColor=FFCB05" alt="ethers.js">
-  <img src="https://img.shields.io/badge/Foundry-1A0800?style=for-the-badge&logo=ethereum&logoColor=FFCB05" alt="Foundry">
-  <img src="https://img.shields.io/badge/Hardhat-1A0800?style=for-the-badge" alt="Hardhat">
-  <img src="https://img.shields.io/badge/IPFS-1A0800?style=for-the-badge&logo=ipfs&logoColor=FFCB05" alt="IPFS">
+  <img src="https://img.shields.io/badge/viem_·_wagmi-0E0518?style=for-the-badge&logo=ethereum&logoColor=C9A0FF" alt="viem and wagmi">
+  <img src="https://img.shields.io/badge/ethers.js-0E0518?style=for-the-badge&logo=ethers&logoColor=C9A0FF" alt="ethers.js">
+  <img src="https://img.shields.io/badge/Foundry-0E0518?style=for-the-badge&logo=ethereum&logoColor=C9A0FF" alt="Foundry">
+  <img src="https://img.shields.io/badge/Hardhat-0E0518?style=for-the-badge" alt="Hardhat">
+  <img src="https://img.shields.io/badge/IPFS-0E0518?style=for-the-badge&logo=ipfs&logoColor=C9A0FF" alt="IPFS">
   <br>
-  <img src="https://img.shields.io/badge/MCP-1A0800?style=for-the-badge&logo=modelcontextprotocol&logoColor=FFCB05" alt="Model Context Protocol">
-  <img src="https://img.shields.io/badge/Supabase-1A0800?style=for-the-badge&logo=supabase&logoColor=FFCB05" alt="Supabase">
-  <img src="https://img.shields.io/badge/SQLite-1A0800?style=for-the-badge&logo=sqlite&logoColor=FFCB05" alt="SQLite">
-  <img src="https://img.shields.io/badge/Vercel-1A0800?style=for-the-badge&logo=vercel&logoColor=FFCB05" alt="Vercel">
+  <img src="https://img.shields.io/badge/MCP-0E0518?style=for-the-badge&logo=modelcontextprotocol&logoColor=C9A0FF" alt="Model Context Protocol">
+  <img src="https://img.shields.io/badge/Supabase-0E0518?style=for-the-badge&logo=supabase&logoColor=C9A0FF" alt="Supabase">
+  <img src="https://img.shields.io/badge/SQLite-0E0518?style=for-the-badge&logo=sqlite&logoColor=C9A0FF" alt="SQLite">
+  <img src="https://img.shields.io/badge/Vercel-0E0518?style=for-the-badge&logo=vercel&logoColor=C9A0FF" alt="Vercel">
 </p>
 
 ## How I work
