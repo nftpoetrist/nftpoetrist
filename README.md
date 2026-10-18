@@ -145,4 +145,4 @@ A STARK-based zero-knowledge virtual machine in Rust. Reported two panics in `bu
 - **Prove it.** A fix comes with the test that fails without it.
 - **Small, reviewable pull requests**, one concern each, with a clear write-up of the cause.
 
-<p align="center"><sub>Numbers counted from GitHub in October 2026. Banner, stats and cards are pixel art drawn in code.</sub></p>
+<p align="center"><sub>Numbers counted from GitHub in October 2026. Pixel art is drawn in code.</sub></p>
