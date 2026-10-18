@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="nftpoetrist: open-source contributor and onchain builder" width="100%">
+  <img src="assets/banner.svg?v=3" alt="nftpoetrist: open-source contributor and onchain builder" width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 I read large codebases end to end, track down the bugs that hide between their parts (state leaking across profiles, races, unbounded waits, corrupted handles) and send small, focused fixes upstream. Nearly every fix ships with a regression test. On my own time I build onchain apps for AI agents and stablecoin payments.
 
 <p align="center">
-  <img src="assets/impact.svg" alt="40 commits on upstream main branches, 188 pull requests opened, 3 upstream projects, 4 onchain apps built" width="100%">
+  <img src="assets/impact.svg?v=3" alt="40 commits on upstream main branches, 188 pull requests opened, 3 upstream projects, 4 onchain apps built" width="100%">
 </p>
 
 ## Open-source contributions
@@ -86,28 +86,28 @@ Tooling for fully homomorphic encryption (FHE) on EVM chains. **10 pull requests
 
 A STARK-based zero-knowledge virtual machine in Rust. Reported two panics in `build_trace` on malformed execution witnesses: [#4042](https://github.com/0xMiden/miden-vm/issues/4042) (inconsistent AEAD stream replay lane) and [#4044](https://github.com/0xMiden/miden-vm/issues/4044) (empty or too-short replayed Merkle path).
 
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="assets/divider.svg?v=3" alt="" width="100%"></p>
 
 ## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nftpoetrist/pikamd"><img src="assets/card-pikamd.svg" alt="PikaMd: a public library of Markdown guidelines for AI agents, used over MCP" width="100%"></a>
+      <a href="https://github.com/nftpoetrist/pikamd"><img src="assets/card-pikamd.svg?v=3" alt="PikaMd: a public library of Markdown guidelines for AI agents, used over MCP" width="100%"></a>
       <p>An agent asks for a guideline in plain words and reads it over MCP; authors publish from their own wallet, the file goes to IPFS and its hash to two verified contracts on Arc, and readers can tip in USDC with 100% going to the author. 129 unit and schema tests.<br><a href="https://github.com/nftpoetrist/pikamd"><b>Code</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nftpoetrist/PikaPay"><img src="assets/card-pikapay.svg" alt="PikaPay: USDC nanopayments per tool use on Arc" width="100%"></a>
+      <a href="https://github.com/nftpoetrist/PikaPay"><img src="assets/card-pikapay.svg?v=3" alt="PikaPay: USDC nanopayments per tool use on Arc" width="100%"></a>
       <p>Pay-per-use tools paid in USDC from a connected wallet, with auto-pay sessions and on-chain receipts decoded from each payment's memo.<br><a href="https://pikapay.vercel.app"><b>Live</b></a> · <a href="https://github.com/nftpoetrist/PikaPay"><b>Code</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nftpoetrist/PikaStake"><img src="assets/card-pikastake.svg" alt="PikaStake: staking and NFT dapp on Arc testnet" width="100%"></a>
+      <a href="https://github.com/nftpoetrist/PikaStake"><img src="assets/card-pikastake.svg?v=3" alt="PikaStake: staking and NFT dapp on Arc testnet" width="100%"></a>
       <p>Staking, NFT minting, loot boxes, user-created NFTs and a <code>.arc</code> name service, each its own Solidity contract.<br><a href="https://pikastake-nine.vercel.app"><b>Live</b></a> · <a href="https://github.com/nftpoetrist/PikaStake"><b>Code</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nftpoetrist/ai-corpus"><img src="assets/card-aicorpus.svg" alt="AI Corpus: knowledge marketplace on Shelby Protocol" width="100%"></a>
+      <a href="https://github.com/nftpoetrist/ai-corpus"><img src="assets/card-aicorpus.svg?v=3" alt="AI Corpus: knowledge marketplace on Shelby Protocol" width="100%"></a>
       <p>The first take on a Markdown library for AI, on Shelby blob storage and Aptos; PikaMd grew out of it.<br><a href="https://github.com/nftpoetrist/ai-corpus"><b>Code</b></a></p>
     </td>
   </tr>
